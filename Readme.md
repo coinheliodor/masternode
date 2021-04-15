@@ -5,6 +5,7 @@
 1. heliodor Coin for Collateral <br>
 (You can buy heliodor coin on the following exchange:) <br>
 *** <br>
+coming soon:
 Exchange: https://crex24.com/...
 <br>***
 
