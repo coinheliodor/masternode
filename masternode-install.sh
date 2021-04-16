@@ -1,7 +1,7 @@
 # !/bin/bash
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='heliodor.conf'
-CONFIGFOLDER='/root/.HELIODOR'
+CONFIGFOLDER='/root/.heliodor'
 COIN_DAEMON='heliodord'
 COIN_CLI='heliodor-cli'
 COIN_TX='heliodor-tx'
