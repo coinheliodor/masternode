@@ -27,7 +27,7 @@ GREEN="\033[0;32m"
 NC='\033[0m'
 MAG='\e[1;35m'
 LICON=$'#'
-`purgeOldInstallation()
+purgeOldInstallation()
 {       echo -e "${YELLOW}Searching and removing old ${BLUE}$PROJECT_NAME ${GREEN}Masternode ${YELLOW}files and configurations${NC}"
 	#stopping service
 	systemctl stop $COIN_NAME.service  > /dev/null 2>&1 &
